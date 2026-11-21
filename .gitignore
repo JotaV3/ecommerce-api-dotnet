@@ -488,3 +488,8 @@ $RECYCLE.BIN/
 
 appsettings.Development.json
 .vscode/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
